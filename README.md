@@ -25,3 +25,15 @@ The R_prediction.R utilized the R language, aiming at predicting the demand of a
 And the restaurant can use that model to do the prediction. Hence producing respective types of food beforehand to improve the efficiency.
 
 The final.csv file is a demonstration using the algorithm using R_prediction.R, showing its ability.
+
+
+
+The following links contains other parts of our project:
+Video presentation:
+https://www.youtube.com/watch?v=q4CGvcrVmLk
+
+UI\UX Design
+prototype: https://www.figma.com/proto/5phOi3ShJ1CybFiPzhpdDp/Food-with-App-Design?node-id=1%3A2&scaling=fit-width
+
+Coding
+GitHub: https://github.com/SimbaZouXiang/HackON-068
